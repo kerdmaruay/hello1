@@ -1,5 +1,4 @@
 .vscode
 password.txt
 /hello1/
-/app.js
-.vscode/settings.json
+app.js
